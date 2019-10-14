@@ -1,0 +1,21 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        },
+        {
+            "path": "fflib-mocks-common",
+            "package": "fflib",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "46.0",
+    "packageAliases": {
+        "fflib": "0Ho2v0000008OTXCA2"
+    }
+}
